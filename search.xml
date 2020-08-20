@@ -8,7 +8,7 @@
 
 
 <h1 id="五分钟搭建一个个人hexo博客"><a href="#五分钟搭建一个个人hexo博客" class="headerlink" title="五分钟搭建一个个人hexo博客"></a>五分钟搭建一个个人hexo博客</h1><h2 id="准备工作步骤"><a href="#准备工作步骤" class="headerlink" title="准备工作步骤"></a>准备工作步骤</h2><p>1：GitHub上面新建一个仓库，用来放自己的博客<br>2：安装git工具，生成SSH添加到GitHub<br>3：本地环境搭建，安装node 和npm<br>4：本地初始化Hexo项目并且运行<br>5：Hexo主题<br>6：部署到github<br>7：生成markdown文件，写文章并且发布</p>
-<h2 id="言归正传，开始我们的写作步骤吧"><a href="#言归正传，开始我们的写作步骤吧" class="headerlink" title="言归正传，开始我们的写作步骤吧"></a>言归正传，开始我们的写作步骤吧</h2><p>一：在GitHub上面新建一个仓库，用来放自己的博客<br>1：新建一个仓库<br>创建一个和你用户名相同的仓库，后面加.github.io后缀，必须要同名哦，不然后面会出现页面404的情况，点击create respository按钮创建。<br><img src="https://upload-images.jianshu.io/upload_images/5640239-c92761a45ddc97f2.png" alt="图片 1"></p>
+<h2 id="言归正传，开始我们的写作步骤吧"><a href="#言归正传，开始我们的写作步骤吧" class="headerlink" title="言归正传，开始我们的写作步骤吧"></a>言归正传，开始我们的写作步骤吧</h2><p>一：在GitHub上面新建一个仓库，用来放自己的博客<br>1：新建一个仓库<br>创建一个和你用户名相同的仓库，后面加.github.io后缀，必须要同名哦，不然后面会出现页面404的情况，点击create respository按钮创建。<br><img src="/images/1.png" alt="图片 1"></p>
 <ul>
 <li>列表1</li>
 <li>列表2<br>a 子列表1<br>b 子列表2</li>
